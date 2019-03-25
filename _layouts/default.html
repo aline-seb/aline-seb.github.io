@@ -2,14 +2,14 @@
 <html>
   {%- include head.html -%}
   <body>
-    <div class="content row no-gutters">
-      <div class="col-lg-6 col-12">
-        <img class="img-fluid" src="/public/img/AlineSeb.svg" style="object-fit:cover">
+    <div  class="grid-wrapper">
+      <div class="cover-image-wrapper">
+        <img class="cover-image" src="/public/img/AlineSeb.svg">
       </div>
-      <div class="col-lg-6 col-12">
-        {{- content -}}
-      </div>
+        <main class="content">
+            {{- content -}}
+        </main>
+        {%- include footer.html -%}
     </div>
-    {%- include footer.html -%}
   </body>
 </html>

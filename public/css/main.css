@@ -1,0 +1,22 @@
+.grid-wrapper{
+    display:grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: auto 50px;
+    
+}
+@media screen and (max-width: 992px){
+    .grid-wrapper{
+        grid-template-columns: 1fr;
+        grid-template-rows: auto auto 50px;
+    }   
+}
+
+.grid-wrapper .content{
+
+}
+.grid-wrapper .cover-image-wrapper{
+    display: flex;
+}
+.grid-wrapper .cover-image-wrapper .cover-image{
+    flex-grow: 1;
+}
