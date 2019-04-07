@@ -15,8 +15,9 @@ Besoin d'une info? Tout devrait être disponible ici. Sinon, envoyez-nous un mai
 
 Une urne sera disponible le jour J pour participer à notre voyage de noce, prévu au Cambodge cet hiver.
 
-{% include angkor.svg %}
-
+<div class="fw-image-wrapper">
+  {% include angkor.svg %}
+</div>
 Sinon, là ; une liste de mariage :
 
 

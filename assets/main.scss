@@ -30,7 +30,7 @@
     }
 }
 
-.grid-wrapper .cover-image-wrapper>.cover-image, .grid-wrapper .cover-image-wrapper>svg{
+.fw-image-wrapper > img, .fw-image-wrapper > svg{
   width:100%;
   height:100%;
   object-fit: contain;
