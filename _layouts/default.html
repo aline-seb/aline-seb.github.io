@@ -2,11 +2,13 @@
 <html>
   {%- include head.html -%}
   <body>
-    <div  class="grid-wrapper">
-      <div class="cover-image-wrapper">
-        <img class="cover-image" src="/public/img/AlineSeb.svg">
+    <div  class=" grid-wrapper row no-gutters">
+      <div class="col-xl-6 col-12">
+        <div class="cover-image-wrapper bg-dark">
+          {% include SebAline.svg %}
+        </div>
       </div>
-        <main class="content">
+        <main class="content col-xl-6 col-12">
             {{- content -}}
         </main>
         {%- include footer.html -%}

@@ -1,0 +1,37 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "variables";
+@import "bootstrap/bootstrap";
+@import "syntax-highlighting";
+@import "bootstrap-4-jekyll/bootstrap-4-jekyll";
+@import "bootstrap_customization";
+
+
+.grid-wrapper .content{
+  h1{
+    padding-top: 15px;
+    text-align:center;
+    color: $primary;
+  }
+  p{
+  }
+}
+.grid-wrapper .cover-image-wrapper{
+    width:100%;
+}
+@media screen and (min-width: 1200px){
+    .grid-wrapper .cover-image-wrapper{
+      position:fixed;
+      height:100vh;
+      left:0;
+      width:50%;
+    }
+}
+
+.grid-wrapper .cover-image-wrapper>.cover-image, .grid-wrapper .cover-image-wrapper>svg{
+  width:100%;
+  height:100%;
+  object-fit: contain;
+}

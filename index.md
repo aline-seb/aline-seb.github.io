@@ -5,10 +5,17 @@ layout: default
 
 # Bienvenue
 
+Besoin d'une info? Tout devrait être disponible ici. Sinon, envoyez-nous un mail!
 
-On fait un voyage au cambodge
+<center>
+  <a href="mailto:sebastien.aline.dumetz@gmail.com" target="_top" >sebastien.aline.dumetz@gmail.com</a>
+</center>
 
-<img class='img-fluid' src="/public/img/angkor_vat_vue_d-artiste.png">
+## Envie de nous faire plaisir?
+
+Une urne sera disponible le jour J pour participer à notre voyage de noce, prévu au Cambodge cet hiver.
+
+{% include angkor.svg %}
 
 Sinon, là ; une liste de mariage :
 
