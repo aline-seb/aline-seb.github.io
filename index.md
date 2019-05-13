@@ -5,23 +5,33 @@ layout: default
 
 # Bienvenue
 
-Besoin d'une info? Tout devrait être disponible ici. Sinon, envoyez-nous un mail!
+Besoin d'une info? Tout devrait être disponible ici. 
+Enfin, pas là tout de suite, mais on rajoutera des choses, promis.
+Sinon, envoyez-nous un mail!
 
 <center>
   <a href="mailto:sebastien.aline.dumetz@gmail.com" target="_top" >sebastien.aline.dumetz@gmail.com</a>
 </center>
 
-## Envie de nous faire plaisir?
+## Organisation
 
-Une urne sera disponible le jour J pour participer à notre voyage de noce, prévu au Cambodge cet hiver.
+**Date** : Le 24 Aout
 
 <div class="fw-image-wrapper">
   {% include angkor.svg %}
 </div>
-Sinon, là ; une liste de mariage :
+
+## Envie de nous faire plaisir?
+
+Une urne sera disponible le jour J pour participer à notre voyage de noce, prévu au Cambodge cet hiver.
 
 
-> ahah non, c'est une feinte, on a rien foutu!
+Sinon, pour ceux qui préfèrent offrir un objet, comme on déménage, on a fait une liste de petits (ou gros) cadeaux qui pourraient nous faire plaisir. A retrouver là :
+
+<center>
+  <a type="button" class="btn btn-primary" href="https://www.milirose.com/liste-cadeaux-44301.html">Primary</a>
+</center>
+
 
 Plein de bisous,
 
